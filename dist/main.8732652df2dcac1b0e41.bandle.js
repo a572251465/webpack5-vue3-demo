@@ -1,1 +1,0 @@
-console.log({name:"lihh",age:20});
